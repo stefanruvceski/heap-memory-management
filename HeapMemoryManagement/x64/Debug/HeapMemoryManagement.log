@@ -1,0 +1,27 @@
+﻿  Array.cpp
+  ClientMemory.cpp
+  ClientServer.cpp
+  DoublyCircularLinkedList.cpp
+  Memory.cpp
+d:\ftn\blok1 pp\heapmemorymanagement\heapmemorymanagement\memory.cpp(25): warning C4311: 'type cast': pointer truncation from 'void *' to 'unsigned int'
+d:\ftn\blok1 pp\heapmemorymanagement\heapmemorymanagement\memory.cpp(25): warning C4302: 'type cast': truncation from 'void *' to 'unsigned int'
+d:\ftn\blok1 pp\heapmemorymanagement\heapmemorymanagement\memory.cpp(40): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+d:\ftn\blok1 pp\heapmemorymanagement\heapmemorymanagement\memory.cpp(40): warning C4302: 'type cast': truncation from 'void *' to 'int'
+d:\ftn\blok1 pp\heapmemorymanagement\heapmemorymanagement\memory.cpp(67): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+d:\ftn\blok1 pp\heapmemorymanagement\heapmemorymanagement\memory.cpp(85): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+d:\ftn\blok1 pp\heapmemorymanagement\heapmemorymanagement\memory.cpp(102): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+d:\ftn\blok1 pp\heapmemorymanagement\heapmemorymanagement\memory.cpp(102): warning C4302: 'type cast': truncation from 'void *' to 'int'
+d:\ftn\blok1 pp\heapmemorymanagement\heapmemorymanagement\memory.cpp(119): warning C4311: 'type cast': pointer truncation from 'void *' to 'unsigned int'
+d:\ftn\blok1 pp\heapmemorymanagement\heapmemorymanagement\memory.cpp(119): warning C4302: 'type cast': truncation from 'void *' to 'unsigned int'
+d:\ftn\blok1 pp\heapmemorymanagement\heapmemorymanagement\memory.cpp(120): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+d:\ftn\blok1 pp\heapmemorymanagement\heapmemorymanagement\memory.cpp(120): warning C4302: 'type cast': truncation from 'void *' to 'int'
+d:\ftn\blok1 pp\heapmemorymanagement\heapmemorymanagement\memory.cpp(126): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+d:\ftn\blok1 pp\heapmemorymanagement\heapmemorymanagement\memory.cpp(126): warning C4302: 'type cast': truncation from 'void *' to 'int'
+d:\ftn\blok1 pp\heapmemorymanagement\heapmemorymanagement\memory.cpp(127): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+d:\ftn\blok1 pp\heapmemorymanagement\heapmemorymanagement\memory.cpp(127): warning C4302: 'type cast': truncation from 'void *' to 'int'
+d:\ftn\blok1 pp\heapmemorymanagement\heapmemorymanagement\memory.cpp(129): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+d:\ftn\blok1 pp\heapmemorymanagement\heapmemorymanagement\memory.cpp(129): warning C4302: 'type cast': truncation from 'void *' to 'int'
+d:\ftn\blok1 pp\heapmemorymanagement\heapmemorymanagement\memory.cpp(148): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+d:\ftn\blok1 pp\heapmemorymanagement\heapmemorymanagement\memory.cpp(156): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+  Generating Code...
+LINK : fatal error LNK1561: entry point must be defined

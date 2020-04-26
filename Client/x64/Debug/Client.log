@@ -1,0 +1,4 @@
+﻿  Client.cpp
+Client.obj : error LNK2019: unresolved external symbol "int __cdecl _send(unsigned __int64,char *,int)" (?_send@@YAH_KPEADH@Z) referenced in function main
+Client.obj : error LNK2019: unresolved external symbol "int __cdecl _recv(unsigned __int64,char *)" (?_recv@@YAH_KPEAD@Z) referenced in function main
+D:\FTN\Blok1 PP\HeapMemoryManagement\x64\Debug\Client.exe : fatal error LNK1120: 2 unresolved externals
